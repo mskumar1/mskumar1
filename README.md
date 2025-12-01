@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohana</h1>
+<h3 align="center">Senior Software Developer | Java • Spring Boot • Microservices | Tata Nexarc</h3>
 
-<!--
-**mskumar1/mskumar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+🌟 Passionate Backend Developer focused on  
+**Java • Spring Boot • Microservices • MySQL • System Design**  
+💼 Software Developer at **Tata Nexarc**  
+🚀 Love solving real-world problems through clean, scalable architecture  
+🏗️ Worked on **Payment Gateways, Transactions, OCR-based Invoice Systems, Finance Management Systems**  
+🎮 Love Computer Games (Especially **GTA**)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials:
+<p align="left">
+<a href="https://www.linkedin.com/in/mohana-sai-kumar-rongala/" target="_blank">LinkedIn</a> |
+<a href="mailto:mohansaikumar.rongala@gmail.com">Email</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+**Languages:**  
+Java • JavaScript • SQL • Python  
+
+**Frameworks & Tools:**  
+Spring Boot • Microservices • Spring Security • JWT • Kafka • Docker • Kubernetes • Jenkins  
+Hibernate • REST APIs • HTML • CSS • TailwindCSS  
+
+**Databases:**  
+MySQL • PostgreSQL  
+
+**Others:**  
+OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mskumar1&theme=tokyonight" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=mskumar1&limit=5&theme=tokyonight" />
+</p>
+
+---
+
+## 💰 Support
+If you like my work, consider supporting:  
+☕ **BuyMeACoffee** → https://buymeacoffee.com/mskumar
