@@ -37,7 +37,7 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat
 
 ---
 
-<-- ## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight" />
 </p> -->
@@ -51,10 +51,10 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat
 
 ---
 
-## 🔝 Top Contributed Repo
+<!-- ## 🔝 Top Contributed Repo
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=mskumar1&limit=5&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
