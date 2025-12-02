@@ -22,7 +22,7 @@
 ---
 
 ## 💻 Tech Stack
-**Languages:**  
+<!-- **Languages:**  
 Java • JavaScript • SQL • Python  
 
 **Frameworks & Tools:**  
@@ -33,7 +33,15 @@ Hibernate • REST APIs • HTML • CSS • TailwindCSS
 MySQL • PostgreSQL  
 
 **Others:**  
-OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  
+OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,rabbitmq,docker,kubernetes,aws" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css" height="45" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,git,github,jenkins,postman" height="45" />
+</p>
 
 ---
 
