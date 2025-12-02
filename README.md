@@ -66,6 +66,21 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
 
 ---
 
+### 🎮 Fun Facts  
+- ❤️ Love playing computer games (especially **GTA**)  
+- 🌏 Based in Andhra Pradesh  
+- 🌱 Learning microservices, Docker, and AI-driven development  
+
+---
+
+### ⭐ Inspiration  
+> “Clean code always wins. Systems that scale always win.  
+>  Keep building, keep shipping.”  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
 ## 💰 Support
 If you like my work, consider supporting:  
 ☕ **BuyMeACoffee** → https://buymeacoffee.com/mskumar
