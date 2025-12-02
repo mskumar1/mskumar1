@@ -45,10 +45,13 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
 
 ---
 
-<!-- ## 📊 GitHub Stats
-<p align="center">
+## 📊 GitHub Stats
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight" />
 </p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=mskumar1&theme=radical" />
+</p>
 
 ---
 
