@@ -49,9 +49,13 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight" />
 </p> -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=mskumar1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mskumar1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mskumar1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mskumar1&theme=radical&utcOffset=5.5" />
 </p>
+
 
 ---
 
