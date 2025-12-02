@@ -61,7 +61,7 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-<img src="<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mskumar1&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mskumar1&theme=tokyonight" />
 " />
 </p>
 
