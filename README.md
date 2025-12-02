@@ -89,7 +89,9 @@ OpenCV • LLM API Integration • Jira • Notion • Maven • Tomcat  -->
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
 ## 💰 Support
+<p align="center">
 If you like my work, consider supporting:  
+</p>
 <p align="center">
   <a href="https://buymeacoffee.com/mskumar" target="_blank" rel="noopener noreferrer">
     <img 
