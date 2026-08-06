@@ -159,6 +159,29 @@ graph TD
 
 ---
 
+### 🛠️ Specialized Architectures & Design Patterns
+Below are the core architectural patterns I implement to maintain system decoupling and performance:
+* **CQRS (Command Query Responsibility Segregation)**: Segregating read and write operations using separate database models (like PostgreSQL for transactional writes and Redis/ElasticSearch for optimized reads).
+* **Transactional Outbox Pattern**: Assuring reliable message publishing to RabbitMQ or Kafka in distributed microservices transactions by using an outbox table within the same relational database boundary.
+* **Distributed Locking (Redis/Redlock)**: Implementing distributed lock mechanisms to manage concurrency and prevent race conditions on payment captures and inventory deductions.
+
+---
+
+### 📈 DevOps, Monitoring & Reliability
+I believe that a backend system is only as good as its observability:
+* **Observability**: Setting up distributed tracing with Spring Cloud Sleuth (Micrometer) and Zipkin/Jaeger to track user requests across microservice boundaries.
+* **Log Aggregation & Monitoring**: Working with Prometheus and Grafana dashboards to monitor JVM health metrics, thread pools, and active DB connection parameters.
+* **CI/CD Pipelines**: Constructing automated Jenkins/GitHub Actions pipelines to build Docker images, execute unit/integration test suites, and deploy to AWS Elastic Container Service (ECS).
+
+---
+
+### 🌱 Current Focus & Learning Journey
+* 🧠 Delving deeper into **System Architecture Patterns** and high-throughput low-latency network protocols (gRPC, WebSockets).
+* 🔧 Researching distributed consensus algorithms (Raft, Paxos) and cloud-native container orchestration using Kubernetes.
+* 🤖 Experimenting with the integration of AI models and OCR libraries to automate complex business workflows.
+
+---
+
 ### 📊 GitHub Metrics & Insights
 
 <div align="center">
