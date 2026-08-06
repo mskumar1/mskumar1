@@ -58,22 +58,19 @@
     <td>
       <h3>🚀 Featured Project: <a href="https://matchsolver.com">MatchSolver.com</a></h3>
       <p><b>AI-Powered Career Optimization & Document Management Platform</b></p>
+      
+      <ul>
+        <li>🤖 <b>AI Career Intelligence</b>: Integrates resume building, cover letter optimization, ATS screening, and mock interview preparation.</li>
+        <li>⚙️ <b>50+ Automated Utilities</b>: Instant online processing suite for PDF, image, and text document formatting.</li>
+        <li>⚡ <b>Production-Grade Architecture</b>: Engineered for high concurrency, low latency file parsing, and secure payment processing.</li>
+      </ul>
+
       <div align="center">
-        <table border="0">
-          <tr>
-            <td width="60%" valign="top">
-              <ul>
-                <li>🤖 <b>AI Career Intelligence</b>: Integrates resume building, cover letter optimization, ATS screening, and mock interview preparation.</li>
-                <li>⚙️ <b>50+ Automated Utilities</b>: Instant online processing suite for PDF, image, and text document formatting.</li>
-                <li>⚡ <b>Production-Grade Architecture</b>: Engineered for high concurrency, low latency file parsing, and secure payment processing.</li>
-              </ul>
-            </td>
-            <td width="40%" align="center">
-              <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/main/assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
-            </td>
-          </tr>
-        </table>
+        <br/>
+        <img src="assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="90%" style="border-radius: 8px; border: 1px solid #333;" />
+        <br/><br/>
       </div>
+
       <h4>MatchSolver Key Architecture & Features:</h4>
       <ul>
         <li><b>Resume Parsing Engine</b>: Utilizes custom optical character recognition (OCR) and text-processing pipelines to extract structured sections from uploaded PDFs and Word files.</li>
