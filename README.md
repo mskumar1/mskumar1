@@ -5,16 +5,26 @@
   <h3>🚀 Backend Developer & Systems Engineer</h3>
   <br/>
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG" />
+  <!-- Typing SVGs -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG 1" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Co-developer+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
+
+  <br/><br/>
 
   <!-- Social Icons / Badges -->
   <p align="center">
+    <a href="https://github.com/mskumar1" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
     <a href="https://www.linkedin.com/in/mohana-sai-kumar-rongala/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:mohansaikumar.rongala@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://matchsolver.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-MatchSolver-7952B3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MatchSolver Website" />
     </a>
     <a href="https://buymeacoffee.com/mskumar" target="_blank">
       <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
