@@ -49,11 +49,28 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://screenshot-to-code-production.s3.amazonaws.com/d946d3ea-b5ff-4ab5-95f7-33d3c8c7ad4e.png" alt="MatchSolver Feature" width="100%" style="border-radius:8px;" />
+        <img src="./assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
       </td>
     </tr>
   </table>
 </div>
+
+#### MatchSolver Key Architecture & Features:
+* **Resume Parsing Engine**: Utilizes custom optical character recognition (OCR) and text-processing pipelines to extract structured sections from uploaded PDFs and Word files.
+* **AI Match Optimizer**: Evaluates job descriptions alongside user resumes to calculate ATS match rates, highlighting keyword gaps, formatting issues, and offering action-oriented optimizations.
+* **Scale & Throughput**: Designed to process large file uploads asynchronously using thread pools, optimizing resource utilization and minimizing user response time.
+
+---
+
+### 💼 Professional Experience: Tata Nexarc
+As a backend developer at **Tata Nexarc**, I focus on building reliable transactional features and processing document data:
+
+1. **OCR Invoice Systems**:
+   - Engineered pipelines to parse, extract, and structure invoice information using OCR utilities, reducing manual invoice indexing overhead.
+   - Built sanitization and validation layers to ensure parsed transactional data maps cleanly to double-entry ledger structures.
+2. **Transaction & Payment Gateways**:
+   - Integrated reliable checkout pipelines with major payment gateways, handling webhook processing, automatic transaction retries, and reconciliation routines.
+   - Implemented distributed locking (via Redis) to prevent double-spending and ensure transaction consistency under concurrent request spikes.
 
 ---
 
@@ -98,6 +115,14 @@ graph TD
 
 ---
 
+### ⚙️ Core Backend Engineering Principles
+* **High Availability & Fault Tolerance**: Implementing Circuit Breakers (Resilience4j) and fallback mechanisms to keep downstream outages from propagating.
+* **Database Optimization**: Designing normalized schemas, writing indexed queries, optimizing JPA/Hibernate mapping relationships to avoid the $N+1$ query problem, and configuring connection pools (HikariCP).
+* **Caching & Session Routing**: Leveraging Redis for fast read-through and write-behind cache strategies, API rate-limiting, and managing shared user sessions across distributed instances.
+* **Messaging & Event-Driven Architecture**: Decoupling long-running operations (like AI-processing and OCR conversions) from direct HTTP request threads using RabbitMQ queues to guarantee reliable job execution.
+
+---
+
 ### 💻 Tech Stack
 
 <div align="center">
@@ -120,6 +145,13 @@ graph TD
     </tr>
   </table>
 </div>
+
+---
+
+### 📐 Coding Standards & Design Patterns
+* **SOLID Design**: Strictly adhering to SOLID principles and Clean Code rules to keep codebases understandable and modular.
+* **API Standardization**: Structuring restful APIs with clean HTTP status mappings, custom exception handlers (`@ControllerAdvice`), and comprehensive Swagger/OpenAPI documentation.
+* **Testing Guidelines**: Writing comprehensive unit and integration tests using JUnit, Mockito, and Testcontainers to validate behavior across database layers.
 
 ---
 
