@@ -8,7 +8,7 @@
   <!-- Typing SVGs -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG 1" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Co-developer+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Founder+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
 
   <br/><br/>
 
@@ -38,7 +38,7 @@
 🚀 **Backend Developer** passionate about building clean, high-performance, and scalable systems.
 
 - 💼 Currently engineering solutions at **Tata Nexarc**.
-- 🚀 Co-developed **[MatchSolver.com](https://matchsolver.com)**, an AI-powered career growth platform.
+- 🚀 Founder of **[MatchSolver.com](https://matchsolver.com)**, an AI-powered career growth platform.
 - 🛠️ Specializing in **Java, Spring Boot, Microservices, and System Design**.
 - 💳 Experienced in **Payment Gateways, Transactions, and OCR Invoice Systems**.
 - 🎮 Casual gamer & massive fan of the **GTA** franchise.
