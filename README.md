@@ -34,15 +34,22 @@
 
 ---
 
-### 💫 About Me
-🚀 **Backend Developer** passionate about building clean, high-performance, and scalable systems.
-
-- 💼 Currently engineering solutions at **Tata Nexarc**.
-- 🚀 Founder of **[MatchSolver.com](https://matchsolver.com)**, an AI-powered career growth platform.
-- 🛠️ Specializing in **Java, Spring Boot, Microservices, and System Design**.
-- 💳 Experienced in **Payment Gateways, Transactions, and OCR Invoice Systems**.
-- 🎮 Casual gamer & massive fan of the **GTA** franchise.
-- 🇮🇳 Based in **Andhra Pradesh, India**.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>💫 About Me</h3>
+      <p>🚀 <b>Backend Developer</b> passionate about building clean, high-performance, and scalable systems.</p>
+      <ul>
+        <li>💼 Currently engineering solutions at <b>Tata Nexarc</b>.</li>
+        <li>🚀 Founder of <a href="https://matchsolver.com"><b>MatchSolver.com</b></a>, an AI-powered career growth platform.</li>
+        <li>🛠️ Specializing in <b>Java, Spring Boot, Microservices, and System Design</b>.</li>
+        <li>💳 Experienced in <b>Payment Gateways, Transactions, and OCR Invoice Systems</b>.</li>
+        <li>🎮 Casual gamer & massive fan of the <b>GTA</b> franchise.</li>
+        <li>🇮🇳 Based in <b>Andhra Pradesh, India</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
