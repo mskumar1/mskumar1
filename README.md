@@ -164,10 +164,10 @@ graph TD
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
