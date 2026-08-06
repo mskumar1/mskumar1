@@ -1,7 +1,8 @@
 <div align="center">
   
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Mohan%20Sai%20Kumar&fontSize=50&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
+  <!-- Sleek Header Title -->
+  <h1>👋 Hi, I'm Mohan Sai Kumar!</h1>
+  <h3>🚀 Backend Developer & Systems Engineer</h3>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG" />
