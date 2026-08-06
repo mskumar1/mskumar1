@@ -6,9 +6,9 @@
   <br/>
 
   <!-- Typing SVGs -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&background=1a1b26&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG 1" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Founder+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&background=1a1b26&center=true&vCenter=true&width=600&height=40&lines=Founder+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
 
   <br/><br/>
 
