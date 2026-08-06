@@ -1,14 +1,11 @@
 <div align="center">
   
-  <!-- Sleek Header Title -->
-  <h1>👋 Hi, I'm Mohan Sai Kumar!</h1>
-  <h3>🚀 Backend Developer & Systems Engineer</h3>
+  <!-- Dynamic Typing SVGs -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=7952B3&background=1a1b26&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+I'm+Mohana+Sai+Kumar;Software+Developer+at+Tata+Nexarc;Founder+of+MatchSolver.com" alt="Typing Name" />
   <br/>
-
-  <!-- Typing SVGs -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&background=1a1b26&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=39FF14&background=1a1b26&center=true&vCenter=true&width=650&height=45&lines=Java+•+Spring+Boot+•+Microservices;System+Design+•+Scalable+Architectures;Building+clean+%26+high-performance+APIs" alt="Typing Tech Stack" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&background=1a1b26&center=true&vCenter=true&width=600&height=40&lines=Founder+of+MatchSolver.com;Building+clean+%26+scalable+APIs;Always+learning%2C+always+shipping!" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=800&color=2ac3de&background=1a1b26&center=true&vCenter=true&width=650&height=35&lines=Always+learning%2C+always+shipping!;Obsessed+with+clean+code;Welcome+to+my+profile!+🚀" alt="Typing Philosophy" />
 
   <br/><br/>
 
