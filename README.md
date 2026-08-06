@@ -69,7 +69,7 @@
               </ul>
             </td>
             <td width="40%" align="center">
-              <img src="./assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
+              <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/main/assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
             </td>
           </tr>
         </table>
