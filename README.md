@@ -53,42 +53,61 @@
 
 ---
 
-### 🚀 Featured Project: [MatchSolver.com](https://matchsolver.com)
-**AI-Powered Career Optimization & Document Management Platform**
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%" valign="top">
-        <ul>
-          <li>🤖 <b>AI Career Intelligence</b>: Integrates resume building, cover letter optimization, ATS screening, and mock interview preparation.</li>
-          <li>⚙️ <b>50+ Automated Utilities</b>: Instant online processing suite for PDF, image, and text document formatting.</li>
-          <li>⚡ <b>Production-Grade Architecture</b>: Engineered for high concurrency, low latency file parsing, and secure payment processing.</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-        <img src="./assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### MatchSolver Key Architecture & Features:
-* **Resume Parsing Engine**: Utilizes custom optical character recognition (OCR) and text-processing pipelines to extract structured sections from uploaded PDFs and Word files.
-* **AI Match Optimizer**: Evaluates job descriptions alongside user resumes to calculate ATS match rates, highlighting keyword gaps, formatting issues, and offering action-oriented optimizations.
-* **Scale & Throughput**: Designed to process large file uploads asynchronously using thread pools, optimizing resource utilization and minimizing user response time.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🚀 Featured Project: <a href="https://matchsolver.com">MatchSolver.com</a></h3>
+      <p><b>AI-Powered Career Optimization & Document Management Platform</b></p>
+      <div align="center">
+        <table border="0">
+          <tr>
+            <td width="60%" valign="top">
+              <ul>
+                <li>🤖 <b>AI Career Intelligence</b>: Integrates resume building, cover letter optimization, ATS screening, and mock interview preparation.</li>
+                <li>⚙️ <b>50+ Automated Utilities</b>: Instant online processing suite for PDF, image, and text document formatting.</li>
+                <li>⚡ <b>Production-Grade Architecture</b>: Engineered for high concurrency, low latency file parsing, and secure payment processing.</li>
+              </ul>
+            </td>
+            <td width="40%" align="center">
+              <img src="./assets/matchsolver_preview.png" alt="MatchSolver Feature Mockup" width="100%" style="border-radius:8px; border: 1px solid #333;" />
+            </td>
+          </tr>
+        </table>
+      </div>
+      <h4>MatchSolver Key Architecture & Features:</h4>
+      <ul>
+        <li><b>Resume Parsing Engine</b>: Utilizes custom optical character recognition (OCR) and text-processing pipelines to extract structured sections from uploaded PDFs and Word files.</li>
+        <li><b>AI Match Optimizer</b>: Evaluates job descriptions alongside user resumes to calculate ATS match rates, highlighting keyword gaps, formatting issues, and offering action-oriented optimizations.</li>
+        <li><b>Scale & Throughput</b>: Designed to process large file uploads asynchronously using thread pools, optimizing resource utilization and minimizing user response time.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 Professional Experience: Tata Nexarc
-As a backend developer at **Tata Nexarc**, I focus on building reliable transactional features and processing document data:
-
-1. **OCR Invoice Systems**:
-   - Engineered pipelines to parse, extract, and structure invoice information using OCR utilities, reducing manual invoice indexing overhead.
-   - Built sanitization and validation layers to ensure parsed transactional data maps cleanly to double-entry ledger structures.
-2. **Transaction & Payment Gateways**:
-   - Integrated reliable checkout pipelines with major payment gateways, handling webhook processing, automatic transaction retries, and reconciliation routines.
-   - Implemented distributed locking (via Redis) to prevent double-spending and ensure transaction consistency under concurrent request spikes.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>💼 Professional Experience: Tata Nexarc</h3>
+      <p>As a backend developer at <b>Tata Nexarc</b>, I focus on building reliable transactional features and processing document data:</p>
+      <ol>
+        <li><b>OCR Invoice Systems</b>:
+          <ul>
+            <li>Engineered pipelines to parse, extract, and structure invoice information using OCR utilities, reducing manual invoice indexing overhead.</li>
+            <li>Built validation layers to ensure parsed transactional data maps cleanly to double-entry ledger structures.</li>
+          </ul>
+        </li>
+        <li><b>Transaction & Payment Gateways</b>:
+          <ul>
+            <li>Integrated reliable checkout pipelines with major payment gateways, handling webhook processing, automatic transaction retries, and reconciliation routines.</li>
+            <li>Implemented distributed locking (via Redis) to prevent double-spending and ensure transaction consistency under concurrent request spikes.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -133,11 +152,19 @@ graph TD
 
 ---
 
-### ⚙️ Core Backend Engineering Principles
-* **High Availability & Fault Tolerance**: Implementing Circuit Breakers (Resilience4j) and fallback mechanisms to keep downstream outages from propagating.
-* **Database Optimization**: Designing normalized schemas, writing indexed queries, optimizing JPA/Hibernate mapping relationships to avoid the $N+1$ query problem, and configuring connection pools (HikariCP).
-* **Caching & Session Routing**: Leveraging Redis for fast read-through and write-behind cache strategies, API rate-limiting, and managing shared user sessions across distributed instances.
-* **Messaging & Event-Driven Architecture**: Decoupling long-running operations (like AI-processing and OCR conversions) from direct HTTP request threads using RabbitMQ queues to guarantee reliable job execution.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⚙️ Core Backend Engineering Principles</h3>
+      <ul>
+        <li><b>High Availability & Fault Tolerance</b>: Implementing Circuit Breakers (Resilience4j) and fallback mechanisms to keep downstream outages from propagating.</li>
+        <li><b>Database Optimization</b>: Designing normalized schemas, writing indexed queries, optimizing JPA/Hibernate mapping relationships to avoid the $N+1$ query problem, and configuring connection pools (HikariCP).</li>
+        <li><b>Caching & Session Routing</b>: Leveraging Redis for fast read-through and write-behind cache strategies, API rate-limiting, and managing shared user sessions across distributed instances.</li>
+        <li><b>Messaging & Event-Driven Architecture</b>: Decoupling long-running operations (like AI-processing and OCR conversions) from direct HTTP request threads using RabbitMQ queues to guarantee reliable job execution.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -166,10 +193,18 @@ graph TD
 
 ---
 
-### 📐 Coding Standards & Design Patterns
-* **SOLID Design**: Strictly adhering to SOLID principles and Clean Code rules to keep codebases understandable and modular.
-* **API Standardization**: Structuring restful APIs with clean HTTP status mappings, custom exception handlers (`@ControllerAdvice`), and comprehensive Swagger/OpenAPI documentation.
-* **Testing Guidelines**: Writing comprehensive unit and integration tests using JUnit, Mockito, and Testcontainers to validate behavior across database layers.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>📐 Coding Standards & Design Patterns</h3>
+      <ul>
+        <li><b>SOLID Design</b>: Strictly adhering to SOLID principles and Clean Code rules to keep codebases understandable and modular.</li>
+        <li><b>API Standardization</b>: Structuring restful APIs with clean HTTP status mappings, custom exception handlers (<code>@ControllerAdvice</code>), and comprehensive Swagger/OpenAPI documentation.</li>
+        <li><b>Testing Guidelines</b>: Writing comprehensive unit and integration tests using JUnit, Mockito, and Testcontainers to validate behavior across database layers.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
