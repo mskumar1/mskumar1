@@ -176,6 +176,13 @@ graph TD
 
 ---
 
+### 🐍 My GitHub Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
 <div align="center">
   <p>⭐ <b>If you like my work, consider giving a star to my repositories!</b></p>
 </div>
