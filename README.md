@@ -1,8 +1,8 @@
 <div align="center">
   
-  <!-- Sleek Header Title -->
-  <h1>👋 Hi, I'm Mohan Sai Kumar!</h1>
-  <h3>🚀 Backend Developer & Systems Engineer</h3>
+  <!-- Graphic Profile Banner -->
+  <img src="./assets/profile_banner.png" alt="Mohan Sai Kumar Banner" width="100%" style="border-radius: 10px;" />
+  <br/><br/>
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7952B3&center=true&vCenter=true&width=600&lines=Software+Developer+at+Tata+Nexarc;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;System+Design+%E2%80%A2+Scalable+Architectures" alt="Typing SVG" />
@@ -156,9 +156,6 @@ graph TD
 ---
 
 ### 📊 GitHub Metrics & Insights
-
-> [!TIP]
-> **To show private contributions:** Enable **"Include private contributions on my profile"** in your [GitHub Profile Settings](https://github.com/settings/profile).
 
 <div align="center">
   <table border="0">
