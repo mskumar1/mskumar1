@@ -26,10 +26,33 @@
 🚀 **Backend Developer** passionate about building clean, high-performance, and scalable systems.
 
 - 💼 Currently engineering solutions at **Tata Nexarc**.
+- 🚀 Co-developed **[MatchSolver.com](https://matchsolver.com)**, an AI-powered career growth platform.
 - 🛠️ Specializing in **Java, Spring Boot, Microservices, and System Design**.
 - 💳 Experienced in **Payment Gateways, Transactions, and OCR Invoice Systems**.
 - 🎮 Casual gamer & massive fan of the **GTA** franchise.
 - 🇮🇳 Based in **Andhra Pradesh, India**.
+
+---
+
+### 🚀 Featured Project: [MatchSolver.com](https://matchsolver.com)
+**AI-Powered Career Optimization & Document Management Platform**
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" valign="top">
+        <ul>
+          <li>🤖 <b>AI Career Intelligence</b>: Integrates resume building, cover letter optimization, ATS screening, and mock interview preparation.</li>
+          <li>⚙️ <b>50+ Automated Utilities</b>: Instant online processing suite for PDF, image, and text document formatting.</li>
+          <li>⚡ <b>Production-Grade Architecture</b>: Engineered for high concurrency, low latency file parsing, and secure payment processing.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://screenshot-to-code-production.s3.amazonaws.com/d946d3ea-b5ff-4ab5-95f7-33d3c8c7ad4e.png" alt="MatchSolver Feature" width="100%" style="border-radius:8px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -45,7 +68,7 @@ graph TD
     classDef db fill:#9ece6a,stroke:#73daca,stroke-width:2px,color:#1a1b26;
 
     %% Nodes
-    Client["📱 Client Apps / Tata Nexarc Platform"]
+    Client["📱 Client Apps / Tata Nexarc / MatchSolver"]
     Gateway["🛡️ API Gateway (Spring Cloud / Security)"]:::gateway
     
     subgraph Microservices ["Core Backend Layer"]
@@ -105,23 +128,17 @@ graph TD
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mskumar1&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/github-contribution-grid-snake/ocean.svg" alt="Snake animation" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=mskumar1&theme=tokyonight&border_radius=10" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 ---
