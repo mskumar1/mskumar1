@@ -1,8 +1,7 @@
 <div align="center">
   
-  <!-- Sleek Header Title -->
-  <h1>👋 Hi, I'm Mohan Sai Kumar Rongala!</h1>
-  <h3>🚀 Backend Developer & Systems Engineer</h3>
+  <!-- Dynamic Capsule Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7952b3,100:39ff14&height=200&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Founder%20of%20MatchSolver%20%7C%20Tata%20Nexarc&descAlignY=56&descSize=16&descColor=a9b1d6" alt="Header Banner" width="100%" />
   <br/>
 
   <!-- Typing SVGs -->
