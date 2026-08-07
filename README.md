@@ -44,6 +44,29 @@
 
 ---
 
+## 🚀 Technical Contributions & Impact
+
+<div align="center">
+
+![Systems Integrated](https://img.shields.io/badge/Systems%20Integrated-5%2B-2ea44f?style=for-the-badge&logo=spring&logoColor=white)
+![APIs Designed](https://img.shields.io/badge/APIs%20Designed-30%2B-388bfd?style=for-the-badge&logo=postman&logoColor=white)
+![OCR Systems Built](https://img.shields.io/badge/OCR%20Systems%20Built-2-f78166?style=for-the-badge&logo=image&logoColor=white)
+![Database Engines Managed](https://img.shields.io/badge/Databases-MySQL%20%7C%20Postgres%20%7C%20Redis-a371f7?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### Key Contributions & Features
+
+| Platform / Project | Area of Contribution | Key Impact & Details |
+|---|---|---|
+| **Tata Nexarc** | **OCR Invoice Parsing Engine** | Built robust pipelines using OCR libraries to extract metadata from invoices, minimizing manual inputs. |
+| **Tata Nexarc** | **Transaction & Payment Gateway** | Engineered reliable, high-availability checkout flows, handling webhook notifications and transaction reconciliation. |
+| **Tata Nexarc** | **Concurrency & Thread Safety** | Implemented Redis-based distributed locking to guarantee double-spend protection during payment processing surges. |
+| **MatchSolver.com** | **ATS Match Optimizer** | Architected the resume parser and analyzer evaluating ATS scores and calculating semantic gaps in resumes. |
+| **MatchSolver.com** | **Asynchronous File Pipelines** | Designed asynchronous processing queues utilizing RabbitMQ to handle multi-format file conversions (PDF, Image, Docs). |
+
+---
+
 ### 🚀 Featured Project: [MatchSolver.com](https://matchsolver.com)
 **AI-Powered Career Optimization & Document Management Platform**
 
