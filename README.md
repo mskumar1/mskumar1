@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Technical Impact & Project Achievements
+## 🚀 Technical Contributions & Impact
 
 <div align="center">
 
@@ -55,9 +55,9 @@
 
 </div>
 
-### Key Engineering Accomplishments
+### Key Contributions & Features
 
-| Platform / Project | Area of Work | Key Impact & Details |
+| Platform / Project | Area of Contribution | Key Impact & Details |
 |---|---|---|
 | **Tata Nexarc** | **OCR Invoice Parsing Engine** | Built robust pipelines using OCR libraries to extract metadata from invoices, minimizing manual inputs. |
 | **Tata Nexarc** | **Transaction & Payment Gateway** | Engineered reliable, high-availability checkout flows, handling webhook notifications and transaction reconciliation. |
