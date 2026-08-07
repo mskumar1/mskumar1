@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Technical Contributions & Impact
+## 🚀 Technical Impact & Project Achievements
 
 <div align="center">
 
@@ -55,9 +55,9 @@
 
 </div>
 
-### Key Contributions & Features
+### Key Engineering Accomplishments
 
-| Platform / Project | Area of Contribution | Key Impact & Details |
+| Platform / Project | Area of Work | Key Impact & Details |
 |---|---|---|
 | **Tata Nexarc** | **OCR Invoice Parsing Engine** | Built robust pipelines using OCR libraries to extract metadata from invoices, minimizing manual inputs. |
 | **Tata Nexarc** | **Transaction & Payment Gateway** | Engineered reliable, high-availability checkout flows, handling webhook notifications and transaction reconciliation. |
@@ -224,9 +224,9 @@ I believe that a backend system is only as good as its observability:
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+### 🐍 My GitHub Activity Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/mskumar1/mskumar1/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" width="100%" />
 </div>
 
 ---
