@@ -228,7 +228,7 @@ I believe that a backend system is only as good as its observability:
   <br/><br/>
   
   <h4>🔥 3D Contribution Graph</h4>
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mskumar1" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
