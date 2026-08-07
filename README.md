@@ -220,6 +220,15 @@ I believe that a backend system is only as good as its observability:
   <br/>
   
   <img src="https://streak-stats.demolab.com/?user=mskumar1&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="GitHub Streak Stats" width="100%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mskumar1&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+  
+  <br/><br/>
+  
+  <h4>🔥 3D Contribution Graph</h4>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mskumar1" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
