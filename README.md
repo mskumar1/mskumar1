@@ -209,10 +209,10 @@ I believe that a backend system is only as good as its observability:
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" width="100%" alt="GitHub Stats" />
+        <img src="https://mskumar1.vercel.app/api?username=mskumar1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
+        <img src="https://mskumar1.vercel.app/api/top-langs/?username=mskumar1&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
