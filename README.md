@@ -1,17 +1,20 @@
 <div align="center">
 
   <!-- Futuristic Cyberwave Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,35:1e1e38,70:6366f1,100:00f2fe&height=220&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Backend%20Architect%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Cloud%20Native%20Engineer&descAlignY=58&descSize=17&descColor=00f2fe" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,30:0f172a,60:6366f1,85:00f2fe,100:38ef7d&height=240&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%20Merai%20Career%20(usemerai.com)%20%E2%80%A2%20Backend%20Architect%20%40%20Tata%20Nexarc&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
 
   <br/>
 
   <!-- Dynamic Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Software+Engineer+at+Tata+Nexarc;Distributed+Systems+%7C+High-Throughput+Microservices;Java+%7C+Spring+Boot+%7C+Reactive+%7C+Kafka+%7C+Redis;Cloud+Native+Architecture+%7C+DevOps;Building+Scalable+%26+Resilient+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=760&lines=Founder+%26+Lead+Architect+at+Merai+Career+(usemerai.com);Backend+Software+Engineer+at+Tata+Nexarc;Distributed+Systems+%7C+Java+21+%7C+Spring+Boot+3+%7C+Reactive;AI+Orchestration+%7C+ATS+Optimization+%7C+High-Throughput+APIs;Event-Driven+Architecture+%7C+Kafka+%7C+RabbitMQ+%7C+Redis;Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <br/><br/>
 
-  <!-- Interactive / Vivid Social Badges -->
+  <!-- Vivid Social & Product Badges -->
   <p align="center">
+    <a href="https://usemerai.com" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Platform-usemerai.com-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Merai Career Live Platform" />
+    </a>
     <a href="https://github.com/mskumar1" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
@@ -22,16 +25,16 @@
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://buymeacoffee.com/mskumar" target="_blank">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+      <img src="https://img.shields.io/badge/Support-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
   </p>
 
   <!-- Glowing Metrics Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Microservices%20Built-30%2B-00f2fe?style=flat-square&logo=spring&logoColor=white" alt="Microservices" />
-    <img src="https://img.shields.io/badge/APIs%20Orchestrated-100%2B-6366f1?style=flat-square&logo=postman&logoColor=white" alt="APIs" />
-    <img src="https://img.shields.io/badge/Uptime%20Target-99.99%25-2ea44f?style=flat-square&logo=statuspage&logoColor=white" alt="Uptime" />
-    <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20K8s-f59e0b?style=flat-square&logo=amazon-aws&logoColor=white" alt="Cloud" />
+    <img src="https://img.shields.io/badge/Merai%20Career-Production%20Live-00f2fe?style=flat-square&logo=vercel&logoColor=white" alt="Production Live" />
+    <img src="https://img.shields.io/badge/Microservices%20Engineered-35%2B-6366f1?style=flat-square&logo=spring&logoColor=white" alt="Microservices" />
+    <img src="https://img.shields.io/badge/High%20Availability-99.99%25-38ef7d?style=flat-square&logo=statuspage&logoColor=white" alt="Uptime" />
+    <img src="https://img.shields.io/badge/Cloud%20Native-AWS%20%7C%20Docker%20%7C%20K8s-f59e0b?style=flat-square&logo=amazon-aws&logoColor=white" alt="Cloud" />
   </p>
 
 </div>
@@ -43,40 +46,101 @@
 ```yaml
 identity:
   name: Mohana Sai Kumar Rongala
-  role: Senior Backend & Distributed Systems Engineer
-  organization: Tata Nexarc
+  leadership: Founder & Chief Architect @ Merai Career (usemerai.com)
+  engineering: Backend Software Engineer @ Tata Nexarc
   location: Andhra Pradesh, India 🇮🇳
-focus_areas:
-  - High-concurrency Microservices & Reactive Event Streaming
-  - Mission-critical Payment Gateways & Distributed Transactions
-  - Deep Document Parsing, OCR Engines & AI-assisted Workflows
-  - Distributed Cache Tiering, Zero-Downtime Deployments & Multi-cloud Orchestration
+core_competencies:
+  - Distributed Systems Architecture & Reactive Microservices
+  - Multi-tenant AI Document Ingestion & ATS Semantic Scoring Pipelines
+  - Mission-Critical Payment Gateways, Webhook Reconciliation & Distributed Locks
+  - High-Throughput Event Streaming (Kafka / RabbitMQ) & Redis Cache Meshes
+  - Cross-Platform Ecosystems (Angular 19, Capacitor Android/iOS, Spring Boot 3)
 passions:
-  - Scalability Engineering, Clean Architecture & System Design
-  - Gaming & GTA series enthusiast 🎮
+  - Building zero-downtime resilient cloud platforms
+  - Gaming & GTA series aficionado 🎮
 ```
 
 ---
 
-## ⚡ Featured High-Impact Systems & Engineering Work
+## 🌟 Flagship Ecosystem: [Merai Career (usemerai.com)](https://usemerai.com)
 
 <div align="center">
 
-| System / Innovation | Core Stack | Key Architectural Impact & Feat |
+```
+  __  __ _____ ____      _    ___    ____    _    ____  _____ _____ ____  
+ |  \/  | ____|  _ \    / \  |_ _|  / ___|  / \  |  _ \| ____| ____|  _ \ 
+ | |\/| |  _| | |_) |  / _ \  | |  | |     / _ \ | |_) |  _| |  _| | |_) |
+ | |  | | |___|  _ <  / ___ \ | |  | |___ / ___ \|  _ <| |___| |___|  _ < 
+ |_|  |_|_____|_| \_\/_/   \_\___|  \____/_/   \_\_| \_\_____|_____|_| \_\
+                 🌐 Intelligent Global Career Platform                     
+```
+
+</div>
+
+**[Merai Career (usemerai.com)](https://usemerai.com)** is an AI-powered Career Studio & ATS Resume Tailoring ecosystem designed for job seekers globally. Powered by Java 21, Spring Boot 3, Angular 19, and cloud-native AI pipelines:
+
+* 🎯 **AI ATS Resume Tailor & Optimizer**: Analyzes complex Job Descriptions and matches candidates' resumes with real-time semantic keyword gap scoring, action-verb boosts, and format verification.
+* ⚡ **Live Interactive Resume Studio**: Real-time multi-template resume customization with instant PDF rendering, QR code credentials, and custom typography presets.
+* 🤖 **Multi-Model AI Intelligence**: Intelligent AI Cover Letter Generator, interview coaching simulators, career path advisors, and automated resume translation.
+* 📱 **True Omnichannel Delivery**: Web app running in synergy with native Android & iOS applications orchestrated through Capacitor and Spring Boot REST APIs.
+* 💳 **Global Billing & Subscriptions**: Integrated Razorpay & Stripe multi-currency checkout pipelines with automated invoice generation, webhooks, and instant entitlement provisioning.
+
+---
+
+### 📊 End-to-End Merai Career AI Engine Workflow
+
+The following diagram illustrates how **Merai Career** processes candidate resumes and job descriptions through an asynchronous AI semantic pipeline:
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Candidate as 👤 Candidate
+    participant Gateway as 🛡️ API Gateway (Spring Cloud)
+    participant Auth as 🔑 OAuth2 / JWT Auth
+    participant ResumeSvc as 📑 Resume & Document Svc
+    participant Queue as 📨 RabbitMQ / Kafka Stream
+    participant AIEngine as 🧠 AI Semantic Parser (Spring AI / LLM)
+    participant Cache as ⚡ Redis Cache Tier
+    participant DB as 🗄️ PostgreSQL Database
+    participant S3 as 📦 AWS S3 Bucket
+
+    Candidate->>Gateway: Upload Resume (PDF/DOCX) + Job Description
+    Gateway->>Auth: Validate JWT / Session Token
+    Auth-->>Gateway: Session Verified (Entitlements Checked)
+    Gateway->>ResumeSvc: Stream Ingestion Request
+    ResumeSvc->>S3: Store Original Document
+    ResumeSvc->>Queue: Dispatch Async Document Event
+    ResumeSvc-->>Candidate: 202 Accepted (Tracking ID)
+
+    Queue->>AIEngine: Consume Job (Text Extraction + OCR)
+    AIEngine->>AIEngine: Semantic Keyword & ATS Gap Analysis
+    AIEngine->>Cache: Cache Parsed AST & Scoring Matrix
+    AIEngine->>DB: Persist Tailored Sections & Match Score
+    AIEngine-->>ResumeSvc: Emit Analysis Completion Event
+    ResumeSvc-->>Candidate: Push Live ATS Score & Optimized Resume via WebSocket / SSE
+```
+
+---
+
+## ⚡ Featured Engineering Systems & Technical Portfolio
+
+<div align="center">
+
+| Product / Innovation | Core Architecture | Impact & Technical Highlights |
 | :--- | :--- | :--- |
+| **[Merai Career](https://usemerai.com)** | Java 21, Spring Boot 3, Angular 19, Spring AI, AWS | Full-scale autonomous career platform with sub-second ATS parsing, automated PDF rendering, and multi-tenant subscriptions. |
 | **Enterprise OCR Invoice Processing Engine** | Java, Spring Boot, OpenCV/Tesseract, Redis | Automated enterprise financial document pipeline parsing invoices with 99.4% precision; cuts manual reconciliation overhead by 80%. |
 | **Mission-Critical Payment & Checkout Gateway** | Spring Cloud, Redis Distributed Locks, Kafka | High-resilience transactional pipeline with distributed idempotency, zero double-spending, webhooks verification & automated failure reconciliation. |
 | **High-Throughput Asynchronous Worker Pipeline** | Spring WebFlux, RabbitMQ, Docker, PostgreSQL | Asynchronous distributed worker mesh processing heavy media conversions, compression, and structured PDF generation at high concurrency. |
 | **Gemini AI Watermark Eliminator Engine** | Reverse Alpha Blending, Modern Canvas, TS/JS | Mathematically precise reverse alpha decomposition algorithm removing watermarks client-side with 0% cloud compute latency. |
-| **Autonomous AI Resume & Career Studio** | Java 21, Spring Boot 3, Angular 19, OAuth2, AWS | Full-stack platform featuring live document orchestration, multi-model AI parsing, ATS semantic scoring, and auto-provisioned cloud pipelines. |
 
 </div>
 
 ---
 
-### 💼 Production Experience: Tata Nexarc
+### 💼 Enterprise Engineering: Tata Nexarc
 
-At **Tata Nexarc**, I design and maintain enterprise-grade transactional pipelines and distributed services:
+At **Tata Nexarc**, I architect high-scale backend services and mission-critical transactional integrations:
 
 - 🛡️ **Distributed Lock & Idempotent Transactions**: Implemented Redis Redlock distributed synchronization across payment flows, preventing concurrency collisions and race-condition double debits.
 - 🧾 **Intelligent Document Ingestion**: Architected multi-threaded document intake pipelines processing high-volume corporate invoices into double-entry accounting ledgers.
@@ -84,51 +148,60 @@ At **Tata Nexarc**, I design and maintain enterprise-grade transactional pipelin
 
 ---
 
-### 🛠️ Distributed Backend System Architecture
+### 🛠️ Distributed Cloud & Microservices Topology
 
 ```mermaid
-flowchart LR
-    %% Theme Styling
-    classDef client fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9;
-    classDef edge fill:#1f242c,stroke:#79c0ff,stroke-width:2px,color:#f0f6fc;
-    classDef core fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#f0f6fc;
-    classDef stream fill:#161b22,stroke:#d29922,stroke-width:2px,color:#f0f6fc;
-    classDef store fill:#161b22,stroke:#bc8cff,stroke-width:2px,color:#f0f6fc;
+flowchart TD
+    %% Styling Classes
+    classDef client fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
+    classDef edge fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#f8fafc;
+    classDef core fill:#022c22,stroke:#34d399,stroke-width:2px,color:#f8fafc;
+    classDef stream fill:#451a03,stroke:#fbbf24,stroke-width:2px,color:#f8fafc;
+    classDef data fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#f8fafc;
 
-    User["📱 Web & Mobile Clients"]:::client
-    CDN["🌐 Cloudflare / CDN Edge"]:::edge
-    Gateway["🛡️ Spring Cloud API Gateway<br/>(JWT / OAuth2 / Rate Limiting)"]:::edge
-
-    subgraph Cluster ["⚡ Resilient Microservices Cluster"]
-        AuthSvc["🔑 Auth & Session Svc"]:::core
-        PaymentSvc["💳 Transaction & Payment Svc"]:::core
-        DocSvc["📄 Document & OCR Engine"]:::core
-        AsyncWorker["⚙️ Heavy Worker Mesh"]:::core
+    subgraph ClientLayer ["🌐 Clients & Native Applications"]
+        Web["💻 Merai Web Client (Angular 19)"]:::client
+        Mobile["📱 Merai Android & iOS (Capacitor)"]:::client
+        TataApps["🏢 Tata Nexarc Business Services"]:::client
     end
 
-    subgraph Messaging ["📨 Event & Queue Layer"]
-        Kafka["⚡ Apache Kafka / RabbitMQ Streams"]:::stream
+    subgraph EdgeLayer ["🛡️ Edge & Traffic Ingress"]
+        CDN["🌍 Cloudflare Edge / DDoS Shield"]:::edge
+        APIGateway["⚡ Spring Cloud API Gateway<br/>(OAuth2 / JWT / Dynamic Rate Limiting)"]:::edge
     end
 
-    subgraph Persistence ["💾 Distributed Data Tier"]
-        DB[("🗄️ PostgreSQL / MySQL Cluster")]:::store
-        Cache[("🚀 Redis Distributed Cache")]:::store
-        S3[("📦 Secure Object Storage (S3)")]:::store
+    subgraph Microservices ["⚙️ Resilient Core Microservices Mesh"]
+        AuthSvc["🔑 Identity & RBAC Service"]:::core
+        MeraiSvc["🎯 Merai AI Resume Engine"]:::core
+        PaymentSvc["💳 Payment & Billing Gateway"]:::core
+        DocSvc["📄 OCR Invoice Processing Service"]:::core
+        WorkerPool["🚀 High-Concurrency Task Mesh"]:::core
     end
 
-    User --> CDN --> Gateway
-    Gateway --> AuthSvc
-    Gateway --> PaymentSvc
-    Gateway --> DocSvc
+    subgraph EventStream ["📨 Event Streaming & Queue Backbone"]
+        Kafka["⚡ Apache Kafka / RabbitMQ Event Bus"]:::stream
+    end
 
-    PaymentSvc -->|Idempotency Check| Cache
-    PaymentSvc -->|Transaction Events| Kafka
-    DocSvc -->|Async Processing Job| Kafka
+    subgraph Persistence ["💾 Cloud Data & Storage Tier"]
+        DB[("🗄️ PostgreSQL Master-Replica")]:::data
+        RedisCache[("⚡ Redis Multi-Tier Cluster")]:::data
+        S3Storage[("📦 AWS S3 Encrypted Object Store")]:::data
+    end
 
-    Kafka --> AsyncWorker
-    AsyncWorker -->|Persist Media| S3
-    AsyncWorker -->|Commit Transaction| DB
-    AuthSvc -->|Token Session| Cache
+    Web & Mobile & TataApps --> CDN --> APIGateway
+    APIGateway --> AuthSvc
+    APIGateway --> MeraiSvc
+    APIGateway --> PaymentSvc
+    APIGateway --> DocSvc
+
+    MeraiSvc & PaymentSvc & DocSvc -->|Publish Async Events| Kafka
+    Kafka --> WorkerPool
+
+    AuthSvc -->|Session Cache| RedisCache
+    PaymentSvc -->|Idempotency Check| RedisCache
+    PaymentSvc -->|Persist Invoices| DB
+    WorkerPool -->|Store Processed Files| S3Storage
+    WorkerPool -->|Save State| DB
 ```
 
 ---
@@ -191,6 +264,6 @@ flowchart LR
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:6366f1,100:090d16&height=120&section=footer" width="100%" alt="Footer" />
-  <p>⭐ <b>Building resilient distributed software with passion & precision</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,35:00f2fe,70:6366f1,100:050914&height=120&section=footer" width="100%" alt="Footer" />
+  <p>🚀 <b>Founder of <a href="https://usemerai.com">Merai Career</a> • Engineering resilient distributed software with passion & precision</b></p>
 </div>
