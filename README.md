@@ -43,41 +43,51 @@
 
 ### 💫 About Me
 
-```yaml
-identity:
-  name: Mohana Sai Kumar Rongala
-  leadership: Founder & Chief Architect @ Merai Career (usemerai.com)
-  specialization: Senior Backend & Distributed Cloud Architect
-  location: Andhra Pradesh, India 🇮🇳
-core_competencies:
-  - Distributed Systems Architecture & Reactive Microservices
-  - Multi-tenant AI Document Ingestion & ATS Semantic Scoring Pipelines
-  - Mission-Critical Payment Gateways, Webhook Reconciliation & Distributed Locks
-  - High-Throughput Event Streaming (Kafka / RabbitMQ) & Redis Cache Meshes
-  - Cross-Platform Ecosystems (Angular 19, Android & iOS Mobile, Spring Boot 3)
-passions:
-  - Building zero-downtime resilient cloud platforms
-  - Gaming & GTA series aficionado 🎮
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%" align="center" valign="middle">
+        <img src="assets/merai-career-logo.jpg" alt="Merai Career" width="160px" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0, 242, 254, 0.4);" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Founder%20%26%20Architect-00f2fe?style=for-the-badge&logoColor=black" alt="Founder Badge" />
+      </td>
+      <td width="70%" valign="middle">
+        <h3>🚀 Mohana Sai Kumar Rongala</h3>
+        <p><b>Founder & Chief Architect</b> at <a href="https://usemerai.com"><b>Merai Career (usemerai.com)</b></a></p>
+        <p>Passionate about crafting ultra-low-latency distributed systems, reactive microservices, and AI-driven document intelligence at scale.</p>
+        <div>
+          <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+          <img src="https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🌟 Flagship Ecosystem: [Merai Career (usemerai.com)](https://usemerai.com)
 
 <div align="center">
-
-```
-  __  __ _____ ____      _    ___    ____    _    ____  _____ _____ ____  
- |  \/  | ____|  _ \    / \  |_ _|  / ___|  / \  |  _ \| ____| ____|  _ \ 
- | |\/| |  _| | |_) |  / _ \  | |  | |     / _ \ | |_) |  _| |  _| | |_) |
- | |  | | |___|  _ <  / ___ \ | |  | |___ / ___ \|  _ <| |___| |___|  _ < 
- |_|  |_|_____|_| \_\/_/   \_\___|  \____/_/   \_\_| \_\_____|_____|_| \_\
-                 🌐 Intelligent Global Career Platform                     
-```
-
+  <a href="https://usemerai.com" target="_blank">
+    <img src="assets/merai_preview.png" alt="Merai Career Mockup & UI" width="95%" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 35px rgba(0, 242, 254, 0.25);" />
+  </a>
+  <br/><br/>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Live%20In%20Production-38ef7d?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/ATS%20Match%20Accuracy-99.2%25-00f2fe?style=for-the-badge&logo=target&logoColor=black" />
+    <img src="https://img.shields.io/badge/Sub--Second-AI%20Streaming-6366f1?style=for-the-badge&logo=speedtest&logoColor=white" />
+  </p>
 </div>
 
-**[Merai Career (usemerai.com)](https://usemerai.com)** is an AI-powered Career Studio & ATS Resume Tailoring ecosystem designed for job seekers globally. Powered by Java 21, Spring Boot 3, Angular 19, and cloud-native AI pipelines:
+**[Merai Career (usemerai.com)](https://usemerai.com)** is an AI-powered Career Studio & ATS Resume Tailoring ecosystem designed for job seekers globally:
 
 * 🎯 **AI ATS Resume Tailor & Optimizer**: Analyzes complex Job Descriptions and matches candidates' resumes with real-time semantic keyword gap scoring, action-verb boosts, and format verification.
 * ⚡ **Live Interactive Resume Studio**: Real-time multi-template resume customization with instant PDF rendering, QR code credentials, and custom typography presets.
