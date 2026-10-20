@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Futuristic Cyberwave Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,30:0f172a,60:6366f1,85:00f2fe,100:38ef7d&height=240&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Chief%20Architect%20%40%20Merai%20Career%20(usemerai.com)%20%E2%80%A2%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:00f2fe&height=220&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%7C%20Merai%20Career%20(usemerai.com)%20%7C%20Distributed%20Systems%20Architect&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
 
   <br/>
 
