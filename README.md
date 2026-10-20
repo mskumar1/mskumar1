@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Futuristic Cyberwave Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,30:0f172a,60:6366f1,85:00f2fe,100:38ef7d&height=240&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%20Merai%20Career%20(usemerai.com)%20%E2%80%A2%20Backend%20Architect%20%40%20Tata%20Nexarc&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,30:0f172a,60:6366f1,85:00f2fe,100:38ef7d&height=240&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Chief%20Architect%20%40%20Merai%20Career%20(usemerai.com)%20%E2%80%A2%20Distributed%20Systems%20Engineer&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
 
   <br/>
 
   <!-- Dynamic Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=760&lines=Founder+%26+Lead+Architect+at+Merai+Career+(usemerai.com);Backend+Software+Engineer+at+Tata+Nexarc;Distributed+Systems+%7C+Java+21+%7C+Spring+Boot+3+%7C+Reactive;AI+Orchestration+%7C+ATS+Optimization+%7C+High-Throughput+APIs;Event-Driven+Architecture+%7C+Kafka+%7C+RabbitMQ+%7C+Redis;Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=760&lines=Founder+%26+Lead+Architect+at+Merai+Career+(usemerai.com);Senior+Distributed+Systems+%26+Backend+Engineer;Java+21+%7C+Spring+Boot+3+%7C+Reactive+Microservices;AI+Orchestration+%7C+ATS+Optimization+%7C+High-Throughput+APIs;Event-Driven+Architecture+%7C+Kafka+%7C+RabbitMQ+%7C+Redis;Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -47,14 +47,14 @@
 identity:
   name: Mohana Sai Kumar Rongala
   leadership: Founder & Chief Architect @ Merai Career (usemerai.com)
-  engineering: Backend Software Engineer @ Tata Nexarc
+  specialization: Senior Backend & Distributed Cloud Architect
   location: Andhra Pradesh, India 🇮🇳
 core_competencies:
   - Distributed Systems Architecture & Reactive Microservices
   - Multi-tenant AI Document Ingestion & ATS Semantic Scoring Pipelines
   - Mission-Critical Payment Gateways, Webhook Reconciliation & Distributed Locks
   - High-Throughput Event Streaming (Kafka / RabbitMQ) & Redis Cache Meshes
-  - Cross-Platform Ecosystems (Angular 19, Capacitor Android/iOS, Spring Boot 3)
+  - Cross-Platform Ecosystems (Angular 19, Android & iOS Mobile, Spring Boot 3)
 passions:
   - Building zero-downtime resilient cloud platforms
   - Gaming & GTA series aficionado 🎮
@@ -82,7 +82,7 @@ passions:
 * 🎯 **AI ATS Resume Tailor & Optimizer**: Analyzes complex Job Descriptions and matches candidates' resumes with real-time semantic keyword gap scoring, action-verb boosts, and format verification.
 * ⚡ **Live Interactive Resume Studio**: Real-time multi-template resume customization with instant PDF rendering, QR code credentials, and custom typography presets.
 * 🤖 **Multi-Model AI Intelligence**: Intelligent AI Cover Letter Generator, interview coaching simulators, career path advisors, and automated resume translation.
-* 📱 **True Omnichannel Delivery**: Web app running in synergy with native Android & iOS applications orchestrated through Capacitor and Spring Boot REST APIs.
+* 📱 **True Omnichannel Delivery**: Web app running in synergy with native Android & iOS mobile applications orchestrated through high-performance Spring Boot REST APIs.
 * 💳 **Global Billing & Subscriptions**: Integrated Razorpay & Stripe multi-currency checkout pipelines with automated invoice generation, webhooks, and instant entitlement provisioning.
 
 ---
@@ -138,9 +138,9 @@ sequenceDiagram
 
 ---
 
-### 💼 Enterprise Engineering: Tata Nexarc
+### 💼 Enterprise Distributed Systems Engineering
 
-At **Tata Nexarc**, I architect high-scale backend services and mission-critical transactional integrations:
+In high-concurrency production backend environments, I architect enterprise-grade transactional pipelines and distributed services:
 
 - 🛡️ **Distributed Lock & Idempotent Transactions**: Implemented Redis Redlock distributed synchronization across payment flows, preventing concurrency collisions and race-condition double debits.
 - 🧾 **Intelligent Document Ingestion**: Architected multi-threaded document intake pipelines processing high-volume corporate invoices into double-entry accounting ledgers.
@@ -159,10 +159,10 @@ flowchart TD
     classDef stream fill:#451a03,stroke:#fbbf24,stroke-width:2px,color:#f8fafc;
     classDef data fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#f8fafc;
 
-    subgraph ClientLayer ["🌐 Clients & Native Applications"]
+    subgraph ClientLayer ["🌐 Clients & Mobile Applications"]
         Web["💻 Merai Web Client (Angular 19)"]:::client
-        Mobile["📱 Merai Android & iOS (Capacitor)"]:::client
-        TataApps["🏢 Tata Nexarc Business Services"]:::client
+        Mobile["📱 Merai Mobile App (Android & iOS)"]:::client
+        PublicAPI["⚡ External API Consumers"]:::client
     end
 
     subgraph EdgeLayer ["🛡️ Edge & Traffic Ingress"]
@@ -188,7 +188,7 @@ flowchart TD
         S3Storage[("📦 AWS S3 Encrypted Object Store")]:::data
     end
 
-    Web & Mobile & TataApps --> CDN --> APIGateway
+    Web & Mobile & PublicAPI --> CDN --> APIGateway
     APIGateway --> AuthSvc
     APIGateway --> MeraiSvc
     APIGateway --> PaymentSvc
