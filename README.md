@@ -53,8 +53,8 @@
       </td>
       <td width="70%" valign="middle">
         <h3>🚀 Mohana Sai Kumar Rongala</h3>
-        <p><b>Founder & Chief Architect</b> at <a href="https://usemerai.com"><b>Merai Career (usemerai.com)</b></a></p>
-        <p>Passionate about crafting ultra-low-latency distributed systems, reactive microservices, and AI-driven document intelligence at scale.</p>
+        <p><b>Founder & Chief Architect</b> at <a href="https://usemerai.com"><b>Merai Career (usemerai.com)</b></a> • <b>Software Developer</b> at <b>Tata Nexarc</b></p>
+        <p>3.5+ years of experience engineering high-throughput distributed systems, reactive microservices, LLM orchestration (OpenAI, Gemini 2.0 Flash), and mission-critical transactional pipelines.</p>
         <div>
           <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
           <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -138,9 +138,12 @@ sequenceDiagram
 
 | Product / Innovation | Core Architecture | Impact & Technical Highlights |
 | :--- | :--- | :--- |
-| **[Merai Career](https://usemerai.com)** | Java 21, Spring Boot 3, Angular 19, Spring AI, AWS | Full-scale autonomous career platform with sub-second ATS parsing, automated PDF rendering, and multi-tenant subscriptions. |
+| **[Merai Career](https://usemerai.com)** | Java 21, Spring Boot 3, Angular 19, Spring AI, AWS | Full-scale autonomous career studio with sub-second ATS parsing, automated PDF rendering, multi-tenant billing, and Redis caching. |
+| **Customer Inquiry & Steel Procurement Portal** | Spring Boot, React, Python ML, OpenAI & Amazon APIs | Enterprise steel procurement system integrating Python predictive pricing models for accurate SKU forecasting and automated data ingestion. *(Tata Nexarc)* |
+| **AI Document/Image Parser & Validator (Hackathon Winner)** | Java, Spring Boot, OCR, Gemini 2.0 Flash LLM | Real-time invoice parsing pipeline combining OCR with Gemini 2.0 Flash LLM for structured metadata extraction and instant schema validation. |
 | **Enterprise OCR Invoice Processing Engine** | Java, Spring Boot, OpenCV/Tesseract, Redis | Automated enterprise financial document pipeline parsing invoices with 99.4% precision; cuts manual reconciliation overhead by 80%. |
-| **Mission-Critical Payment & Checkout Gateway** | Spring Cloud, Redis Distributed Locks, Kafka | High-resilience transactional pipeline with distributed idempotency, zero double-spending, webhooks verification & automated failure reconciliation. |
+| **ERP Middleware & Credit Flow Automation** | Spring Boot, Camunda, MySQL, REST APIs | Onboarded lenders (Stride, Mintifi), centralized config tables, automated invoice generation, and Camunda credit workflows. *(Tata Nexarc)* |
+| **Mission-Critical Payment & Checkout Gateway** | Spring Cloud, Razorpay, Redis Locks, Kafka | High-resilience transactional pipeline with distributed idempotency, zero double-spending, webhook reconciliation & ledger wallet tracking. |
 | **High-Throughput Asynchronous Worker Pipeline** | Spring WebFlux, RabbitMQ, Docker, PostgreSQL | Asynchronous distributed worker mesh processing heavy media conversions, compression, and structured PDF generation at high concurrency. |
 | **Gemini AI Watermark Eliminator Engine** | Reverse Alpha Blending, Modern Canvas, TS/JS | Mathematically precise reverse alpha decomposition algorithm removing watermarks client-side with 0% cloud compute latency. |
 
