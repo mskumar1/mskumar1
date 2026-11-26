@@ -1,19 +1,19 @@
 <div align="center">
 
   <!-- Futuristic Cyberwave Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:00f2fe&height=220&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%7C%20Merai%20Career%20(usemerai.com)%20%7C%20Distributed%20Systems%20Architect&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:00f2fe&height=220&section=header&text=Mohana%20Sai%20Kumar%20Rongala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%7C%20Merai%20Technologies%20(usemerai.com)%20%7C%20Distributed%20Systems%20Architect&descAlignY=58&descSize=16&descColor=00f2fe" alt="Header Banner" width="100%" />
 
   <br/>
 
   <!-- Dynamic Typing SVG Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=760&lines=Founder+%26+Lead+Architect+at+Merai+Career+(usemerai.com);Senior+Distributed+Systems+%26+Backend+Engineer;Java+21+%7C+Spring+Boot+3+%7C+Reactive+Microservices;AI+Orchestration+%7C+ATS+Optimization+%7C+High-Throughput+APIs;Event-Driven+Architecture+%7C+Kafka+%7C+RabbitMQ+%7C+Redis;Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=760&lines=Founder+%26+Chief+Architect+at+Merai+Technologies+(usemerai.com);Software+Developer+at+Tata+Nexarc;Distributed+Systems+%7C+Java+21+%7C+Spring+Boot+3;Merai+Product+Suite+%7C+Career%2C+Pharmacy%2C+Shaadi%2C+Connect;Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
   <br/><br/>
 
   <!-- Vivid Social & Product Badges -->
   <p align="center">
     <a href="https://usemerai.com" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Platform-usemerai.com-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Merai Career Live Platform" />
+      <img src="https://img.shields.io/badge/Live%20Platform-usemerai.com-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Merai Technologies Live Platform" />
     </a>
     <a href="https://github.com/mskumar1" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -72,28 +72,31 @@
 
 ---
 
-## 🌟 Flagship Ecosystem: [Merai Career (usemerai.com)](https://usemerai.com)
+## 🌟 Merai Technologies Product Suite & Client Platforms ([usemerai.com](https://usemerai.com))
+
+As **Founder & Chief Architect** at **Merai Technologies**, I lead the development of our enterprise platforms, AI product suite, and client solutions:
+
+<div align="center">
+
+| Project | Category / Type | Live Platform & Highlights |
+| :--- | :--- | :--- |
+| **[Merai Career](https://career.usemerai.com)** | **AI Career Platform** | Real-time ATS resume tailoring, AI role-matching algorithms, and interactive multi-template PDF studio. *(Also on Google Play Store)* |
+| **[Rahul Pharmacy](https://pharmacy.usemerai.com)** | **Healthcare / Client Production** | Digital medicine discovery catalog, prescription inquiry workflows, and localized order fulfillment desk. |
+| **[Merai Shaadi](https://shaadi.usemerai.com)** | **Matrimonial Ecosystem** | Secure profile verification engine, community preference matching logic, and encrypted messaging. |
+| **[Merai Connect](https://connect.usemerai.com)** | **Collaborative Digital Network** | Real-time event streaming, dynamic member directory, and unified digital collaboration spaces. |
+| **[Merai Shopping](https://shopping.usemerai.com)** | **E-Commerce Simulation** | High-speed client-side cart calculation, inventory pipeline, and frictionless multi-category checkout UX. |
+| **[Merai Calculator](https://calculator.usemerai.com)** | **Online Utilities Suite** | Zero-latency browser-based financial and mathematical calculation engines with mobile-optimized keypad. |
+| **[Merai Play Games](https://play.usemerai.com)** | **Interactive Gaming Hub** | Lightweight canvas-rendered browser games featuring low-latency 2D physics and multi-device controls. |
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://usemerai.com" target="_blank">
-    <img src="assets/merai_preview.png" alt="Merai Career Mockup & UI" width="95%" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 35px rgba(0, 242, 254, 0.25);" />
+    <img src="assets/merai_preview.png" alt="Merai Technologies Product Suite" width="95%" style="border-radius: 12px; border: 2px solid #00f2fe; box-shadow: 0 0 35px rgba(0, 242, 254, 0.25);" />
   </a>
-  <br/><br/>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Live%20In%20Production-38ef7d?style=for-the-badge&logo=statuspage&logoColor=white" />
-    <img src="https://img.shields.io/badge/ATS%20Match%20Accuracy-99.2%25-00f2fe?style=for-the-badge&logo=target&logoColor=black" />
-    <img src="https://img.shields.io/badge/Sub--Second-AI%20Streaming-6366f1?style=for-the-badge&logo=speedtest&logoColor=white" />
-  </p>
 </div>
-
-**[Merai Career (usemerai.com)](https://usemerai.com)** is an AI-powered Career Studio & ATS Resume Tailoring ecosystem designed for job seekers globally:
-
-* 🎯 **AI ATS Resume Tailor & Optimizer**: Analyzes complex Job Descriptions and matches candidates' resumes with real-time semantic keyword gap scoring, action-verb boosts, and format verification.
-* ⚡ **Live Interactive Resume Studio**: Real-time multi-template resume customization with instant PDF rendering, QR code credentials, and custom typography presets.
-* 🤖 **Multi-Model AI Intelligence**: Intelligent AI Cover Letter Generator, interview coaching simulators, career path advisors, and automated resume translation.
-* 📱 **True Omnichannel Delivery**: Web app running in synergy with native Android & iOS mobile applications orchestrated through high-performance Spring Boot REST APIs.
-* 💳 **Global Billing & Subscriptions**: Integrated Razorpay & Stripe multi-currency checkout pipelines with automated invoice generation, webhooks, and instant entitlement provisioning.
 
 ---
 
@@ -138,7 +141,7 @@ sequenceDiagram
 
 | Product / Innovation | Core Architecture | Impact & Technical Highlights |
 | :--- | :--- | :--- |
-| **[Merai Career](https://usemerai.com)** | Java 21, Spring Boot 3, Angular 19, Spring AI, AWS | Full-scale autonomous career studio with sub-second ATS parsing, automated PDF rendering, multi-tenant billing, and Redis caching. |
+| **[Merai Technologies Suite](https://usemerai.com)** | Java 21, Spring Boot 3, Angular 19, Spring AI, AWS | Complete product ecosystem & client solutions including Merai Career, Rahul Pharmacy, Shaadi, Connect, Shopping, Calculator, and Games. |
 | **Customer Inquiry & Steel Procurement Portal** | Spring Boot, React, Python ML, OpenAI & Amazon APIs | Enterprise steel procurement system integrating Python predictive pricing models for accurate SKU forecasting and automated data ingestion. *(Tata Nexarc)* |
 | **AI Document/Image Parser & Validator (Hackathon Winner)** | Java, Spring Boot, OCR, Gemini 2.0 Flash LLM | Real-time invoice parsing pipeline combining OCR with Gemini 2.0 Flash LLM for structured metadata extraction and instant schema validation. |
 | **Enterprise OCR Invoice Processing Engine** | Java, Spring Boot, OpenCV/Tesseract, Redis | Automated enterprise financial document pipeline parsing invoices with 99.4% precision; cuts manual reconciliation overhead by 80%. |
@@ -278,5 +281,5 @@ flowchart TD
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,35:00f2fe,70:6366f1,100:050914&height=120&section=footer" width="100%" alt="Footer" />
-  <p>🚀 <b>Founder of <a href="https://usemerai.com">Merai Career</a> • Engineering resilient distributed software with passion & precision</b></p>
+  <p>🚀 <b>Founder of <a href="https://usemerai.com">Merai Technologies</a> • Engineering resilient distributed software with passion & precision</b></p>
 </div>
